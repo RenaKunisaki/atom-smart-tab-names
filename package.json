@@ -1,16 +1,22 @@
 {
   "name": "smart-tab-names",
   "main": "./lib/smart-tab-name",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gives tabs better names.",
-  "keywords": ["tab", "title", "name", "path", "__init__", "index"],
+  "keywords": [
+    "tab",
+    "title",
+    "name",
+    "path",
+    "__init__",
+    "index"
+  ],
   "repository": "https://github.com/RenaKunisaki/atom-smart-tab-names",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "consumedServices": {
     "autoreload": {
       "versions": {
