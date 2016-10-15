@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Gives tabs better names.",
   "keywords": ["tab", "title", "name", "path", "__init__", "index"],
-  "repository": "https://github.com/atom/my-smart-tab-name",
+  "repository": "https://github.com/RenaKunisaki/atom-smart-tab-names",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
